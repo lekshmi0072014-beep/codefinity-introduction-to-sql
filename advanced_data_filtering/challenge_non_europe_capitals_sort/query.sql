@@ -1,0 +1,4 @@
+SELECT name, capital, continent
+FROM COUNTRY 
+WHERE NOT CONTINENT = 'Europe'
+ORDER BY CAPITAL;
