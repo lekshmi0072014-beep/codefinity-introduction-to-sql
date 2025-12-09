@@ -1,0 +1,1 @@
+SELECT AVG(surfacearea) FROM COUNTRY;
