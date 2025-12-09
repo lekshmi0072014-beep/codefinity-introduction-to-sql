@@ -1,0 +1,4 @@
+SELECT name, region, capital, population
+FROM COUNTRY 
+WHERE CONTINENT = 'Europe' AND POPULATION >= 100000
+ORDER BY REGION, CAPITAL;
