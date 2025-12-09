@@ -1,0 +1,3 @@
+SELECT NAME 
+FROM COUNTRY
+WHERE REGION = 'Central America' OR REGION = 'North America';
