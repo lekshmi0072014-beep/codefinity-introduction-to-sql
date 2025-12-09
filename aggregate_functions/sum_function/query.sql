@@ -1,0 +1,3 @@
+SELECT SUM(surfacearea)
+FROM COUNTRY
+WHERE CONTINENT = 'Europe';
